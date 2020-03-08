@@ -1,0 +1,205 @@
+﻿2020-03-07T17:41:47.5099145-06:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-07T17:41:47.5101080-06:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework netcore31 in x64 mode execution started
+2020-03-07T17:41:47.5101118-06:00;VSTestExecutionThread;Info;TestAdapter Location: C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-07T17:41:47.5417563-06:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\NetTest.dll
+2020-03-07T17:41:47.5419392-06:00;VSTestExecutionThread;Info;Output folder configured to "C:\AT\DotNet\repos\NetTest\TestResults" (default)
+2020-03-07T17:41:47.5419964-06:00;VSTestExecutionThread;Info;Profile: 
+2020-03-07T17:41:47.5687032-06:00;VSTestExecutionThread;Info;Log file path: C:\AT\DotNet\repos\NetTest\TestResults\Unnamed project__2020-03-07T174147.log
+2020-03-07T17:41:47.5976274-06:00;Thread#12;Info;Checking license
+2020-03-07T17:41:47.6032374-06:00;Thread#12;Info;License check completed
+2020-03-07T17:41:47.6033900-06:00;Thread#12;Info;starting test run
+2020-03-07T17:41:47.6082718-06:00;Thread#12;Info;Discovering target: Default
+2020-03-07T17:41:47.6084364-06:00;Thread#12;Info;Discovering tests from assembly: C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\NetTest.dll
+2020-03-07T17:41:47.6922030-06:00;Thread#12;Info;Discovered tests from assembly: C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\NetTest.dll
+2020-03-07T17:41:47.6936945-06:00:Test Suite Dump
+2020-03-07T17:41:47.6955371-06:00:#0: Unnamed project/ - 
+2020-03-07T17:41:47.6955603-06:00:#1: Default - 
+2020-03-07T17:41:47.6955633-06:00:#2: NetTest - 
+2020-03-07T17:41:47.6955655-06:00:#3: PUT - 
+2020-03-07T17:41:47.6970140-06:00:#4: Update a user First Name - TestAssembly:NetTest/Feature:PUT/Scenario:Update+a+user+First+Name
+2020-03-07T17:41:47.6970798-06:00:End: Test Suite Dump
+2020-03-07T17:41:47.7126609-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-07T17:41:47.7141099-06:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-03-07T17:41:47.7141578-06:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-03-07T17:41:47.7165332-06:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-07T17:41:47.7165406-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-03-07T17:41:47.7165433-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-03-07T17:41:47.7165451-06:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-03-07T17:41:47.7170750-06:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-03-07T17:41:47.7181679-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-07T17:41:47.7202025-06:00:Thread #0: creating new test thread executor for NetTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-03-07T17:41:47.7222723-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-03-07T17:41:47.7224937-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-03-07T17:41:47.7244925-06:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-03-07T17:41:47.7263265-06:00:starting Out Of Process Executor
+2020-03-07T17:41:47.7276755-06:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-07T17:41:47.7296766-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-03-07T17:41:47.7296851-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-03-07T17:41:47.7305985-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:47.7308262-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-07T17:41:47.7309213-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-07T17:41:47.7309538-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:47.7387034-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-07T17:41:47.7387182-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-07T17:41:47.7387561-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-07T17:41:47.7387822-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-07T17:41:47.7388974-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-07T17:41:47.7389021-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-07T17:41:47.7389265-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-07T17:41:47.7389452-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-07T17:41:47.7390711-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-07T17:41:47.7390764-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-07T17:41:47.7391024-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-07T17:41:47.7391220-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-07T17:41:47.7430801-06:00:Starting callback TCP Rpc server
+2020-03-07T17:41:47.7573023-06:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-03-07T17:41:47.7573434-06:00:Started callback TCP Rpc server on port 32768
+2020-03-07T17:41:47.7573458-06:00:Starting logger TCP Rpc server
+2020-03-07T17:41:47.7591697-06:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-03-07T17:41:47.7591929-06:00:Started logger TCP Rpc server on port 32769
+2020-03-07T17:41:47.8238457-06:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 24136 --uniqueId "2020-03-07T174147" --outputFolder "C:\AT\DotNet\repos\NetTest\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:47.8297213-06:00:Executor with PID 9992 has been started successfully.
+2020-03-07T17:41:47.8324777-06:00:Out of Process Executor 9992 started
+2020-03-07T17:41:47.8325138-06:00:Waiting for endpoint
+2020-03-07T17:41:48.1084242-06:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-07T17:41:48.1084803-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-03-07T17:41:48.1084843-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-03-07T17:41:48.1084897-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:48.1084911-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-07T17:41:48.1085241-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-07T17:41:48.1085496-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:48.1090958-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-07T17:41:48.1091025-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-07T17:41:48.1091552-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-07T17:41:48.1091777-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-07T17:41:48.1092576-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-07T17:41:48.1092620-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-07T17:41:48.1093054-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-07T17:41:48.1093248-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-07T17:41:48.1094130-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-07T17:41:48.1094173-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-07T17:41:48.1094615-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-07T17:41:48.1094814-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-07T17:41:48.3033230-06:00:Remote executor port received: 32770
+2020-03-07T17:41:48.3043732-06:00:Creating executor TCP client on port 32770
+2020-03-07T17:41:48.3051014-06:00:Created executor TCP client on port 32770
+2020-03-07T17:41:48.3051152-06:00:Connecting to remote executor TCP server
+2020-03-07T17:41:48.3062784-06:00:Connected remote executor TCP server
+2020-03-07T17:41:48.3065329-06:00:trying to connect to Out of Process Executor the 1 attempt
+2020-03-07T17:41:48.3065513-06:00:Connection to Out of Process Executor established in the 1 attempt
+2020-03-07T17:41:48.4230149-06:00:2020-03-07T17:41:48.4220255-06:00:OutOfProcessTestAssemblyExecutor: initialized for C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\NetTest.dll on test thread #0
+2020-03-07T17:41:48.4270603-06:00:Endpoint 9992 started
+2020-03-07T17:41:48.4431893-06:00:2020-03-07T17:41:48.4426905-06:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-03-07T17:41:48.5487805-06:00:2020-03-07T17:41:48.5483774-06:00:Thread#0:T:2020-03-07T17:41:48.5470101-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-03-07T17:41:48.5517992-06:00:2020-03-07T17:41:48.5514789-06:00:Thread#0:T:2020-03-07T17:41:48.5512321-06:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-03-07T17:41:48.5547485-06:00:2020-03-07T17:41:48.5544642-06:00:Thread#0:T:2020-03-07T17:41:48.5541973-06:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\luis.espindola\.nuget\packages\specflow\3.1.86\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-03-07T17:41:48.6450958-06:00:2020-03-07T17:41:48.6446194-06:00:Thread#0:T:-> Loading plugin C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-03-07T17:41:48.6465495-06:00:2020-03-07T17:41:48.6462631-06:00:Thread#0:T:2020-03-07T17:41:48.6460558-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-03-07T17:41:48.6503523-06:00:2020-03-07T17:41:48.6500171-06:00:Thread#0:T:-> Using default config
+2020-03-07T17:41:48.6598086-06:00:2020-03-07T17:41:48.6593270-06:00:Thread#0:T:2020-03-07T17:41:48.6590995-06:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-03-07T17:41:48.6619662-06:00:2020-03-07T17:41:48.6617119-06:00:Thread#0:T:2020-03-07T17:41:48.6615389-06:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-03-07T17:41:48.6629047-06:00:2020-03-07T17:41:48.6626663-06:00:Thread#0:T:2020-03-07T17:41:48.6624819-06:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\luis.espindola\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-03-07T17:41:48.6646212-06:00:2020-03-07T17:41:48.6643070-06:00:Thread#0:T:2020-03-07T17:41:48.6640543-06:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-03-07T17:41:48.6653141-06:00:2020-03-07T17:41:48.6650838-06:00:Thread#0:T:2020-03-07T17:41:48.6650463-06:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-03-07T17:41:48.6660373-06:00:2020-03-07T17:41:48.6658601-06:00:Thread#0:T:2020-03-07T17:41:48.6657252-06:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\luis.espindola\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-03-07T17:41:48.6991854-06:00:2020-03-07T17:41:48.6988510-06:00:Thread#0:T:2020-03-07T17:41:48.6986309-06:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-03-07T17:41:48.6999042-06:00:2020-03-07T17:41:48.6996161-06:00:Thread#0:T:2020-03-07T17:41:48.6995780-06:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-03-07T17:41:48.7008459-06:00:2020-03-07T17:41:48.7005751-06:00:Thread#0:T:2020-03-07T17:41:48.7004005-06:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\luis.espindola\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-03-07T17:41:48.8665073-06:00:Thread#0: Test #4/0 is started on thread #0
+2020-03-07T17:41:48.8857934-06:00:2020-03-07T17:41:48.8850625-06:00:Thread#0:B:Given I have a user First Name
+2020-03-07T17:41:48.8970401-06:00:2020-03-07T17:41:48.8966660-06:00:Thread#0:T:2020-03-07T17:41:48.8963928-06:00:Assembly resolving MongoUtils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-03-07T17:41:48.9031860-06:00:2020-03-07T17:41:48.8976309-06:00:Thread#0:T:2020-03-07T17:41:48.8974471-06:00:[AssemblyCache] Trying to resolve 'MongoUtils' from .deps.json file
+2020-03-07T17:41:48.9046710-06:00:2020-03-07T17:41:48.9043905-06:00:Thread#0:T:2020-03-07T17:41:48.9041894-06:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'MongoUtils', found in dependency map, but unable to resolve a path in ['MongoUtils.dll']
+2020-03-07T17:41:48.9055025-06:00:2020-03-07T17:41:48.9052522-06:00:Thread#0:T:2020-03-07T17:41:48.9051034-06:00:[AssemblyCache] Could not resolve 'MongoUtils' from .deps.json
+2020-03-07T17:41:48.9074179-06:00:2020-03-07T17:41:48.9071113-06:00:Thread#0:T:2020-03-07T17:41:48.9069369-06:00:[AssemblyCache] Trying to resolve 'MongoUtils' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:48.9107559-06:00:2020-03-07T17:41:48.9104416-06:00:Thread#0:T:2020-03-07T17:41:48.9101553-06:00:[AssemblyCache] Trying to resolve 'MongoUtils' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\MongoUtils.dll'
+2020-03-07T17:41:48.9116132-06:00:2020-03-07T17:41:48.9113661-06:00:Thread#0:T:2020-03-07T17:41:48.9112051-06:00:[AssemblyCache] Found file 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\MongoUtils.dll' for assembly 'MongoUtils'
+2020-03-07T17:41:48.9774874-06:00:2020-03-07T17:41:48.9769250-06:00:Thread#0:T:2020-03-07T17:41:48.9766385-06:00:[AssemblyCache] Resolved 'MongoUtils' to C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\MongoUtils.dll
+2020-03-07T17:41:48.9793093-06:00:2020-03-07T17:41:48.9788336-06:00:Thread#0:T:Hola
+2020-03-07T17:41:48.9886251-06:00:2020-03-07T17:41:48.9880799-06:00:Thread#0:T:done: PUTSteps.GivenIHaveAUserFirstName() (0.1s)
+2020-03-07T17:41:48.9910058-06:00:2020-03-07T17:41:48.9904812-06:00:Thread#0:B:And I Prepare the resource
+2020-03-07T17:41:48.9934291-06:00:2020-03-07T17:41:48.9929899-06:00:Thread#0:T:Hola
+2020-03-07T17:41:48.9942728-06:00:2020-03-07T17:41:48.9939438-06:00:Thread#0:T:done: PUTSteps.GivenIPrepareTheResource() (0.0s)
+2020-03-07T17:41:48.9952654-06:00:2020-03-07T17:41:48.9949191-06:00:Thread#0:B:When I send the data to the API
+2020-03-07T17:41:48.9965500-06:00:2020-03-07T17:41:48.9962436-06:00:Thread#0:T:Hola
+2020-03-07T17:41:48.9972179-06:00:2020-03-07T17:41:48.9968963-06:00:Thread#0:T:done: PUTSteps.WhenISendTheDataToTheAPI() (0.0s)
+2020-03-07T17:41:48.9980541-06:00:2020-03-07T17:41:48.9977284-06:00:Thread#0:B:Then The status code should be 200
+2020-03-07T17:41:49.0023224-06:00:2020-03-07T17:41:49.0019760-06:00:Thread#0:T:Hola
+2020-03-07T17:41:49.0033205-06:00:2020-03-07T17:41:49.0030118-06:00:Thread#0:T:done: PUTSteps.ThenTheStatusCodeShouldBe(200) (0.0s)
+2020-03-07T17:41:49.0040508-06:00:2020-03-07T17:41:49.0036889-06:00:Thread#0:B:And I verify the data on the MongoDB
+2020-03-07T17:41:49.0056029-06:00:2020-03-07T17:41:49.0052623-06:00:Thread#0:T:2020-03-07T17:41:49.0050197-06:00:Assembly resolving MongoDB.Driver, Version=2.10.2.0, Culture=neutral, PublicKeyToken=null
+2020-03-07T17:41:49.0065433-06:00:2020-03-07T17:41:49.0062861-06:00:Thread#0:T:2020-03-07T17:41:49.0060796-06:00:[AssemblyCache] Trying to resolve 'MongoDB.Driver' from .deps.json file
+2020-03-07T17:41:49.0077302-06:00:2020-03-07T17:41:49.0072706-06:00:Thread#0:T:2020-03-07T17:41:49.0071118-06:00:[AssemblyCache] Resolved 'MongoDB.Driver' to 'C:\Users\luis.espindola\.nuget\packages\mongodb.driver\2.10.2\lib\netstandard1.5\MongoDB.Driver.dll'
+2020-03-07T17:41:49.0101989-06:00:2020-03-07T17:41:49.0098551-06:00:Thread#0:T:2020-03-07T17:41:49.0096728-06:00:Assembly resolving MongoDB.Driver.Core, Version=2.10.2.0, Culture=neutral, PublicKeyToken=null
+2020-03-07T17:41:49.0108610-06:00:2020-03-07T17:41:49.0106352-06:00:Thread#0:T:2020-03-07T17:41:49.0105703-06:00:[AssemblyCache] Trying to resolve 'MongoDB.Driver.Core' from .deps.json file
+2020-03-07T17:41:49.0117282-06:00:2020-03-07T17:41:49.0114161-06:00:Thread#0:T:2020-03-07T17:41:49.0113025-06:00:[AssemblyCache] Resolved 'MongoDB.Driver.Core' to 'C:\Users\luis.espindola\.nuget\packages\mongodb.driver.core\2.10.2\lib\netstandard1.5\MongoDB.Driver.Core.dll'
+2020-03-07T17:41:49.0141277-06:00:2020-03-07T17:41:49.0138578-06:00:Thread#0:T:2020-03-07T17:41:49.0136129-06:00:Assembly resolving MongoDB.Bson, Version=2.10.2.0, Culture=neutral, PublicKeyToken=null
+2020-03-07T17:41:49.0145918-06:00:2020-03-07T17:41:49.0143825-06:00:Thread#0:T:2020-03-07T17:41:49.0143416-06:00:[AssemblyCache] Trying to resolve 'MongoDB.Bson' from .deps.json file
+2020-03-07T17:41:49.0153945-06:00:2020-03-07T17:41:49.0152273-06:00:Thread#0:T:2020-03-07T17:41:49.0150632-06:00:[AssemblyCache] Resolved 'MongoDB.Bson' to 'C:\Users\luis.espindola\.nuget\packages\mongodb.bson\2.10.2\lib\netstandard1.5\MongoDB.Bson.dll'
+2020-03-07T17:41:49.0454680-06:00:2020-03-07T17:41:49.0451182-06:00:Thread#0:T:2020-03-07T17:41:49.0448616-06:00:Assembly resolving DnsClient, Version=1.2.0.0, Culture=neutral, PublicKeyToken=4574bb5573c51424
+2020-03-07T17:41:49.0464189-06:00:2020-03-07T17:41:49.0461637-06:00:Thread#0:T:2020-03-07T17:41:49.0459765-06:00:[AssemblyCache] Trying to resolve 'DnsClient' from .deps.json file
+2020-03-07T17:41:49.0475068-06:00:2020-03-07T17:41:49.0472160-06:00:Thread#0:T:2020-03-07T17:41:49.0470346-06:00:[AssemblyCache] Resolved 'DnsClient' to 'C:\Users\luis.espindola\.nuget\packages\dnsclient\1.2.0\lib\netstandard2.0\DnsClient.dll'
+2020-03-07T17:41:49.2074768-06:00:2020-03-07T17:41:49.2058260-06:00:Thread#0:T:2020-03-07T17:41:49.2053839-06:00:Assembly resolving MongoDB.Libmongocrypt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-03-07T17:41:49.2106587-06:00:2020-03-07T17:41:49.2092927-06:00:Thread#0:T:2020-03-07T17:41:49.2090832-06:00:[AssemblyCache] Trying to resolve 'MongoDB.Libmongocrypt' from .deps.json file
+2020-03-07T17:41:49.2133200-06:00:2020-03-07T17:41:49.2122089-06:00:Thread#0:T:2020-03-07T17:41:49.2119914-06:00:[AssemblyCache] Resolved 'MongoDB.Libmongocrypt' to 'C:\Users\luis.espindola\.nuget\packages\mongodb.libmongocrypt\1.0.0\lib\netstandard1.5\MongoDB.Libmongocrypt.dll'
+2020-03-07T17:41:49.3322326-06:00:2020-03-07T17:41:49.3314036-06:00:Thread#0:T:MongoDB.Driver.MongoCollectionImpl`1[MongoDB.Bson.BsonDocument]
+2020-03-07T17:41:52.8760069-06:00:2020-03-07T17:41:52.8739744-06:00:Thread#0:T:{ "_id" : ObjectId("5e5f730467765242649a9f3a"), "firstName" : "Katelin", "lastName" : "Kris", "phone" : "31259361039740854", "_class" : "com.ivcoding.mongobasiccrud.model.User" }AAA
+2020-03-07T17:41:53.3473484-06:00:2020-03-07T17:41:53.3448683-06:00:Thread#0:T:done: PUTSteps.ThenIVerifyTheDataOnTheMongoDB() (4.3s)
+2020-03-07T17:41:53.3840806-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-07T17:41:53.3842225-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-07T17:41:53.3842296-06:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-07T17:41:53.3842358-06:00:Thread#0:Scheduler: No more tests for thread
+2020-03-07T17:41:53.4706382-06:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 4.603084 seconds
+2020-03-07T17:41:53.4839097-06:00:2020-03-07T17:41:53.4834602-06:00:Got Deinitialize Signal
+2020-03-07T17:41:53.4881739-06:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-03-07T17:41:53.4889479-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-03-07T17:41:53.4905541-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-03-07T17:41:53.4933390-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-07T17:41:53.4933639-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-03-07T17:41:53.4933691-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-03-07T17:41:53.4933755-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:53.4933773-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-03-07T17:41:53.4934073-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-03-07T17:41:53.4934364-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\AT\DotNet\repos\NetTest\NetTest\bin\Debug\netcoreapp3.1'
+2020-03-07T17:41:53.4940960-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-07T17:41:53.4941052-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-03-07T17:41:53.4941469-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-03-07T17:41:53.4941728-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-07T17:41:53.4942549-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-07T17:41:53.4942606-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-03-07T17:41:53.4942894-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-03-07T17:41:53.4943127-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-07T17:41:53.4943987-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-07T17:41:53.4944041-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-03-07T17:41:53.4944359-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-03-07T17:41:53.4944590-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-07T17:41:53.4951381-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-07T17:41:53.5012531-06:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-07T17:41:53.5012909-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-07T17:41:53.5012941-06:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-07T17:41:53.5026875-06:00;Thread#12;Info;test run finished
+2020-03-07T17:41:53.5028180-06:00;Thread#12;Info;publishing test results
+2020-03-07T17:41:53.5029305-06:00;Thread#12;Info;Not publishing results.
+2020-03-07T17:41:53.5029838-06:00;Thread#12;Info;test results published
+2020-03-07T17:41:53.5030293-06:00;Thread#12;Info;generating reports
+2020-03-07T17:41:53.5731781-06:00;Thread#12;Info;Starting external report generation process
+2020-03-07T17:41:55.0369858-06:00;Thread#12;Info;Successfully generated reports.
+2020-03-07T17:41:55.0388127-06:00;Thread#12;Info;Successfully generated reports
+2020-03-07T17:41:55.0440423-06:00:Total: 1
+2020-03-07T17:41:55.0455808-06:00:Succeeded: 1
+2020-03-07T17:41:55.0458499-06:00:Ignored: 0
+2020-03-07T17:41:55.0460601-06:00:Pending: 0
+2020-03-07T17:41:55.0460668-06:00:Skipped: 0
+2020-03-07T17:41:55.0462675-06:00:Failed: 0
+2020-03-07T17:41:55.0510592-06:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-03-07T17:41:55.0511277-06:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\AT\DotNet\repos\NetTest\TestResults\Unnamed project__2020-03-07T174147.html'
+========== End of log file ==========

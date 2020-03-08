@@ -1,0 +1,9 @@
+C:\AT\DotNet\repos\NetTest\MongoUtils\bin\Debug\netstandard2.0\MongoUtils.deps.json
+C:\AT\DotNet\repos\NetTest\MongoUtils\bin\Debug\netstandard2.0\MongoUtils.dll
+C:\AT\DotNet\repos\NetTest\MongoUtils\obj\Debug\netstandard2.0\MongoUtils.csprojAssemblyReference.cache
+C:\AT\DotNet\repos\NetTest\MongoUtils\obj\Debug\netstandard2.0\MongoUtils.AssemblyInfoInputs.cache
+C:\AT\DotNet\repos\NetTest\MongoUtils\obj\Debug\netstandard2.0\MongoUtils.AssemblyInfo.cs
+C:\AT\DotNet\repos\NetTest\MongoUtils\bin\Debug\netstandard2.0\MongoUtils.pdb
+C:\AT\DotNet\repos\NetTest\MongoUtils\obj\Debug\netstandard2.0\MongoUtils.dll
+C:\AT\DotNet\repos\NetTest\MongoUtils\obj\Debug\netstandard2.0\MongoUtils.pdb
+C:\AT\DotNet\repos\NetTest\MongoUtils\bin\Debug\netstandard2.0\mongocrypt.dll
